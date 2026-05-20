@@ -1,0 +1,11 @@
+streamlit
+requests
+Pillow
+protobuf
+watchdog
+streamlit-lottie
+openai
+PyPDF2
+numpy
+scipy
+python-docx
